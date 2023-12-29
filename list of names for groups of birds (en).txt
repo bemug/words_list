@@ -1,0 +1,48 @@
+Bitterns: sedge
+Chickens: brood, clutch, peep
+Cormorants: gulp
+Cranes: herd, sedge
+Crows: murder, congress
+Doves: dole, flight, piteousness
+Ducks: Raft, brace, paddling, raft
+Eagles: convocation, aerie
+Emus: mob
+Finches: charm
+Flamingoes: stand, flamboyance, pat
+Geese: gaggle, skein, plump
+Grouse: covey, pack
+Gulls: colony
+Hawks: boil, cast, kettle, lease
+Herons: seige, sedge
+Ibises: colony
+Jays: band, party, scold
+Lapwings: deceit, desert
+Larks: bevy, exaltation
+Magpies: charm, congregation, gulp, murder, tiding, tittering
+Mallards: flush, puddling, sord, suit
+Nightingales: watch
+Owls: parliament, stare, wisdom
+Parrots: company, pandemonium
+Peacocks: muster, ostentation, pride, party
+Pelicans: squadron, scoop, pod
+Penguins: colony, waddle, rookery, raft
+Pheasants: bouquet, nye, nide, nest, head
+Pigeons: kit
+Plovers: congregation, stand, wing
+Quails: bevy, covey, drift
+Ravens: congress, unkindness
+Rooks: building, parliament
+Sandpipers: fling
+Snipes: walk, whisp
+Sparrows: host, meinie, tribe
+Starlings: chattering, cloud, congregation, murmuration, clattering
+Storks: mustering, phalanx
+Swallows: flight, gulp
+Swans: wedge, team, lamentation, bank, bevy, drift, eyrar, flight, whiting
+Swifts: flock, scream
+Turkeys: gang, rafter, gobble, posse, raffle
+Vultures: wake, venue
+Waterfowl: bunch, knob, raft
+Woodcocks: fall
+Woodpeckers: descent
+Wrens: herd, chime
